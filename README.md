@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a data analyst passionate about uncovering in
 ---
 
 ### 📊 My Data Analysis Portfolio
-
+* **[Product-Conversion-Funnel-Analysis](https://github.com/thomaglads/Product-Conversion-Funnel-Analysis)**
 * **[AI-Powered Customer Churn Analysis](https://github.com/thomaglads/Customer-Churn-Prediction-Portfolio)**
 * **[Credit Default Risk Analysis](https://github.com/thomaglads/credit-default-risk-analysis)**
 * **[Trade Reconciliation & Data Quality Analysis](https://github.com/thomaglads/Trade-Reconciliation-Data-Quality)**
