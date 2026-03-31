@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a data analyst passionate about uncovering in
 * **[A/B Test Conservation Campaign](https://github.com/thomaglads/AB-Test-Conservation-Campaign)**
 * **[Mastercard Stock Analysis](https://github.com/thomaglads/Mastercard-Stock-Analysis-Looker-Studio)**
 * **[Netflix Content Strategy Analysis](https://github.com/thomaglads/Netflix-Content-Analysis-Tableau)**
-* **(https://github.com/thomaglads/Tesla-Robotaxi-Optimization)**
+* **[Tesla-Robotaxi-Optimization](https://github.com/thomaglads/Tesla-Robotaxi-Optimization)**
 ---
 
 ### 🛠️ Tools & Technologies
